@@ -56,6 +56,11 @@ Welcome to my **favorite** profile on the internet! :octocat:
 <br>
 <img src="https://img.shields.io/badge/-Windows-black?logo=Windows&logoColor=0078D6&style=plastic" alt="Windows" width="150" hight="50">
 <img src="https://img.shields.io/badge/-Linux-black?logo=Linux&logoColor=ffffff&style=plastic" alt="Linux" width="150" hight="50">
+<br>
+<img src="https://img.shields.io/badge/-npm-black?logo=npm&logoColor=CB3837&style=plastic" alt="Linux" width="150" hight="50">
+<img src="https://img.shields.io/badge/-Yarn-black?logo=Yarn&logoColor=2C8EBB&style=plastic" alt="Linux" width="150" hight="50">
+<img src="https://img.shields.io/badge/-Git-black?logo=Git&logoColor=F05032&style=plastic" alt="Linux" width="150" hight="50">
+<img src="https://img.shields.io/badge/-Github-black?logo=Github&logoColor=ffffff&style=plastic" alt="Linux" width="150" hight="50">
 </p>
 </br>
 </br>
