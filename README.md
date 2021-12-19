@@ -23,7 +23,7 @@ Welcome to my **favorite** profile on the internet! :octocat:
 <p align="center">
   
 </br>
-<img src="https://img.shields.io/badge/-HTML-black?logo=HTML5&logoColor=F7DF1E&style=plastic" alt="HTML5" width="150" hight="50">
+<img src="https://img.shields.io/badge/-HTML-black?logo=HTML5&logoColor=FF2D20&style=plastic" alt="HTML5" width="150" hight="50">
 <img src="https://img.shields.io/badge/-Javascript-black?logo=Javascript&logoColor=F7DF1E&style=plastic" alt="Javascript" width="150" hight="50">
 <img src="https://img.shields.io/badge/-CSS3-black?logo=CSS3&logoColor=777BB4&style=plastic" alt="CSS3" width="150" hight="50">
 <br>
@@ -43,7 +43,7 @@ Welcome to my **favorite** profile on the internet! :octocat:
 <img src="https://img.shields.io/badge/-Flutter-black?logo=Flutter&logoColor=02569B&style=plastic" alt="Flutter" width="150" hight="50">
 <br>
 <img src="https://img.shields.io/badge/-Windows-black?logo=Windows&logoColor=0078D6&style=plastic" alt="Windows" width="150" hight="50">
-<img src="https://img.shields.io/badge/-Linux-black?logo=Linux&FCC624&style=plastic" alt="Linux" width="150" hight="50">
+<img src="https://img.shields.io/badge/-Linux-black?logo=Linux&logoColor=ffffff&style=plastic" alt="Linux" width="150" hight="50">
 </p>
 </br>
 </br>
