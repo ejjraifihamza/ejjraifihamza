@@ -12,7 +12,19 @@ Welcome to my **favorite** profile on the internet! :octocat:
 # About ME 💬 :
 ### - I'm 26 years  old Web / Mobile developer from Morocco.
 <br>
-<img hight="400" width="500" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+  
+## Contact With Me! 📧 :
+
+<br>
+<a href="https://www.linkedin.com/in/hamza-ejjraifi/">
+	<img align="centre" src="https://img.shields.io/badge/-LinkedIn-black?logo=LinkedIn&logoColor=0A66C2&style=plastic" />
+</a>
+<a href="https://twitter.com/HEjj95">
+	<img align="centre" src="https://img.shields.io/badge/-Twitter-black?logo=Twitter&logoColor=1DA1F2&style=plastic" />
+</a>
+  <a href="https://www.facebook.com/ejjraifi.hamza">
+	<img align="centre" src="https://img.shields.io/badge/-Facebook-black?logo=Facebook&logoColor=1877F2&style=plastic" />
+</a>
 <br>
 <br>
   
@@ -48,7 +60,15 @@ Welcome to my **favorite** profile on the internet! :octocat:
 </br>
 </br>
 </br>
+<br>
 
+# Top Used Languages:
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejjraifihamza)](https://github.com/ejjraifihamza/github-readme-stats)
+<br>
+<br>
 
   
 
