@@ -10,7 +10,7 @@ Welcome to my **favorite** profile on the internet! :octocat:
 <br>
 <br>
 # About ME 💬 :
-### - I'm 26 years  old Web / Mobile developer from Morocco.
+### - I'm 26 years old Web / Mobile developer and writer from Morocco.
 <br>
   
 ## Contact With Me! 📧 :
